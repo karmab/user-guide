@@ -1,6 +1,6 @@
 ![](assets/kubevirt-pre-256x256.png)
 
-# KubeVirt User Guide <small>v0.4.0</small>
+# KubeVirt User Guide <small>v0.9.1</small>
 
 > Reference documentation
 
